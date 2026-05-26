@@ -301,26 +301,14 @@ This system is deployable via:
 # System Screenshots
 
 ## Executive Command Center
-
-<img width="1400" alt="Executive Command Center" src="assets/executive_command_center.png">
-
-Executive operational monitoring environment providing enterprise KPI visibility across admissions, LOS analytics, ICU utilization, ED congestion, operational expenditure, and capacity pressure intelligence.
-
----
+![Executive Command Center](assets/screenshots/executive_command_center.png)
 
 ## Capacity & Bed Intelligence
-
-<img width="1400" alt="Capacity & Bed Intelligence" src="assets/capacity_bed_intelligence.png">
-
-Enterprise capacity monitoring module supporting occupancy intelligence, bed utilization analytics, ICU pressure visibility, and hospital-wide operational strain monitoring.
-
----
+![Capacity & Bed Intelligence](assets/screenshots/capacity_bed_intelligence.png)
 
 ## Executive Insights & Recommendations
+![Executive Insights & Recommendations](assets/screenshots/executive_insights_recommendations.png)
 
-<img width="1400" alt="Executive Insights and Recommendations" src="assets/executive_insights_recommendations.png">
-
-Real-time executive operational intelligence environment delivering strategic healthcare insights, operational risk signals, throughput intelligence, congestion analytics, and executive operational recommendations.
 # Strategic Positioning
 
 This project demonstrates capabilities in:
