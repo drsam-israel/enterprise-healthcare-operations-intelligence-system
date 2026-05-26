@@ -1,0 +1,33 @@
+column_name,description
+patient_id,Synthetic patient identifier
+admission_id,Synthetic hospital admission identifier
+icu_stay_id,Synthetic ICU stay identifier; missing if no ICU stay
+admission_datetime,Admission date and time
+discharge_datetime,Discharge date and time
+admission_year,Admission year
+admission_month,Admission month
+admission_day_of_week,Admission day of week
+age,"Patient age, capped at 91 to mimic deidentification style"
+gender,Patient gender
+insurance_type,Insurance or payer category
+admission_type,Type of hospital admission
+department,Primary department associated with admission
+hospital_unit,Hospital unit/ward location
+bed_id,Synthetic bed identifier
+bed_occupancy_status,Current or operational bed status
+icu_flag,Flag indicating ICU utilization
+ventilator_flag,Flag indicating ventilator utilization
+diagnosis_category,Primary diagnosis category
+severity_score,Synthetic severity score from 1 to 100
+length_of_stay_days,Hospital length of stay in days
+icu_length_of_stay_days,ICU length of stay in days
+ed_wait_time_minutes,Emergency department wait time in minutes
+transfer_count,Number of intra-hospital transfers
+nurse_ratio,Estimated nurse-to-patient workload ratio
+capacity_pressure_score,Synthetic capacity strain score from 20 to 100
+readmission_30d,Flag indicating 30-day readmission
+mortality_flag,Flag indicating inpatient mortality
+high_risk_flag,Flag identifying high-risk operational/clinical cases
+discharge_disposition,Discharge destination or outcome
+daily_cost_usd,Estimated daily cost in USD
+total_cost_usd,Estimated total hospitalization cost in USD
